@@ -1,11 +1,4 @@
 # THREATS-VS-VULNERABILITIES
-# Threats vs Vulnerabilities
-
-**Course:** IKB21403 Vulnerability Analysis
-**Lab:** Lab 1
-**Name:** NUR NAJIHAH ABHAR BINTI MOHAMED AZAHAR
-
----
 
 Many people think a threat and a vulnerability are the same thing, but they are different. In this lab I explain the difference and give 10 examples.
 
