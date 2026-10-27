@@ -9,9 +9,9 @@ Many people think a threat and a vulnerability are the same thing, but they are 
 | Threat | Something that can cause harm to a system. It can be a person, an event or a situation. | A thief. He is the danger. |
 | Vulnerability | A weak point in a system. A threat can use it to do harm. | A door that is not locked. It is the weak point. |
 
-How they work together. A threat needs a weak point to attack. If the system has no weak point, the threat cannot do much. If there is a weak point but nobody attacks it, there is no problem. The risk starts when the threat finds the weak point. For example, a thief is not dangerous to a house with a locked door, but he is dangerous if the door is open.
+How they work together: A threat needs a weak point to attack. If the system has no weak point, the threat cannot do much. If there is a weak point but nobody attacks it, there is no problem. The risk starts when the threat finds the weak point. For example, a thief is not dangerous to a house with a locked door, but he is dangerous if the door is open.
 
-My simple check. To check, I ask myself, is this a weak point, or is it something that can attack the weak point? If it is a weak point, it is a vulnerability. If it can attack, it is a threat.
+My simple check: To check, I ask myself, is this a weak point, or is it something that can attack the weak point? If it is a weak point, it is a vulnerability. If it can attack, it is a threat.
 
 ## Examples
 
